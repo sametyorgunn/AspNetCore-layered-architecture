@@ -1,0 +1,15 @@
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Samet\source\repos\WebApplication1\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
